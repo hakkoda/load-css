@@ -1,0 +1,2 @@
+  <script src=https://unpkg.com/@babel/polyfill@7.6.0/dist/polyfill.min.js></script>
+  <script src=https://unpkg.com/@babel/standalone/babel.min.js></script>
